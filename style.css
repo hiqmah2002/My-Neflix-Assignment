@@ -9,7 +9,7 @@
     background:scroll; 
     height: 100vh;
     font-weight: 100;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(Img.JPG);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(img.jpg);
     border-bottom : 10px solid rgba(68, 67, 67);
     box-shadow: inset 120px 100px 250px #000000, inset -120px -100px 250px #000000;
 }
